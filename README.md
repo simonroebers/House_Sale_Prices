@@ -15,7 +15,7 @@ This repository demonstrates my skills in:
 - Ability to evaluate the performance of different models and choose the best one for the problem.
 
 Included Notebooks:
-- 1_EDA
+- [1_EDA](1_EDA.ipynb)
 - 2_Data_Cleaning_Feature_Engineering (Work in Progress)
 - 3_Linear_Regression (Work in Progress)
 - 4_Regularized_Regression (Work in Progress)
