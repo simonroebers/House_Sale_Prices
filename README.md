@@ -1,4 +1,4 @@
-# Regression_Prediction
+# Regression for Prediction
 This GitHub repository is a comprehensive exercise that showcases my proficiency in data analytics using Python. The repository focuses on a regression problem, where the goal is to predict the sale price of houses. The dataset used for this exercise is publicly available on Kaggle (https://www.kaggle.com/datasets/harlfoxem/housesalesprediction) and contains information about house sales, including features such as the location, size, and age of the houses.
 
 The solution starts with exploratory data analysis (EDA), where I gain insights into the data by generating descriptive statistics, creating visualizations, and identifying patterns in the data. This helps me to better understand the relationships between different variables and to identify any missing or incorrect values.
