@@ -5,7 +5,7 @@ The solution starts with **exploratory data analysis** (EDA), where I gain insig
 
 Next, the dataset is **cleaned and new features are engineered**. This usually involves removing any unnecessary variables and handling missing values. Here, the data is merely transformed into a format suitable for modeling. I also create new variables that I believe may be useful in predicting the sale price of houses.
 
-Finally, I apply various regression techniques, such as **linear regression, decision tree regression, random forest regression, and gradient boosting regression**, to the data. I evaluate the performance of each model using metrics such as mean squared error (MSE), mean absolute error (MAE), and R-squared. I then choose the best performing model and use it to make predictions on the test data.
+Finally, I apply various regression techniques, such as **linear regression, ridge/lasso regression, decision tree regression, random forest regression, and gradient boosting regression**, to the data. I evaluate the performance of each model using metrics such as mean squared error (MSE), mean absolute error (MAE), and R-squared. I then choose the best performing model and use it to make predictions on the test data.
 
 The last file comments on some insights and conclusions drawn from the code.
 
