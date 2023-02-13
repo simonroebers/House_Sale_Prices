@@ -18,10 +18,10 @@ This repository demonstrates my skills in:
 
 Included Notebooks:
 - [1_EDA](1_EDA.ipynb)
-- [2_Data_Cleaning_Feature_Engineering] (2_Data_Cleaning_Feature_Engineering.ipynb)
+- [2_Data_Cleaning_Feature_Engineering](2_Data_Cleaning_Feature_Engineering.ipynb)
 - 3_Linear_Regression (Work in Progress)
 - 4_Regularized_Regression (Work in Progress)
 - 5_Decision_Tree_Regression (Work in Progress)
 - 6_Random_Forest_Regression (Work in Progress)
 - 7_Gradient_Boosting_Regression (Work in Progress)
-- [8_Code_Insights] (8_Code_Insights.ipynb)
+- [8_Code_Insights](8_Code_Insights.ipynb)
