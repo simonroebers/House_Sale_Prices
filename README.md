@@ -7,8 +7,6 @@ Next, the dataset is **cleaned and new features are engineered**. This usually i
 
 Finally, I apply various regression techniques, such as **linear regression, ridge/lasso regression, decision tree regression, random forest regression, and gradient boosting regression**, to the data. I evaluate the performance of each model using metrics such as mean squared error (MSE), mean absolute error (MAE), and R-squared. I then choose the best performing model and use it to make predictions on the test data.
 
-The last file comments on some insights and conclusions drawn from the code.
-
 This repository demonstrates my skills in:
 - Python programming and the use of libraries such as NumPy, Pandas, Matplotlib, and scikit-learn for data analysis and modeling.
 - Understanding and implementation of exploratory data analysis (EDA) to gain insights into the data.
@@ -20,8 +18,7 @@ Included Notebooks:
 - [1_EDA](1_EDA.ipynb)
 - [2_Data_Cleaning_Feature_Engineering](2_Data_Cleaning_Feature_Engineering.ipynb)
 - [3_Linear_Regression](3_Linear_Regression.ipynb)
-- 4_Regularized_Regression (Work in Progress)
+- [4_Regularized_Regression](4_Lasso_Ridge_Regression.ipynb)
 - 5_Decision_Tree_Regression (Work in Progress)
 - 6_Random_Forest_Regression (Work in Progress)
 - 7_Gradient_Boosting_Regression (Work in Progress)
-- [8_Code_Insights](8_Code_Insights.ipynb)
