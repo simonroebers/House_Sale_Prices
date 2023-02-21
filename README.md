@@ -20,4 +20,4 @@ Included Notebooks:
 - [3_Linear_Regression](3_Linear_Regression.ipynb)
 - [4_Regularized_Regression](4_Lasso_Ridge_Regression.ipynb)
 - [5_Random_Forest_Regression](5_Random_Forest_Regression.ipynb)
-- 6_Gradient_Boosting_Regression (Work in Progress)
+- [6_Gradient_Boosting_Regression](6_Gradient_Boosting_Regressor.ipynb)
